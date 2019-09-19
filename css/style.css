@@ -185,6 +185,11 @@ h6 {
   display: none;
 }
 
+
+#header.header-scrolled img{
+  margin-top: -20px;
+}
+
 #header .logo h1 {
   font-size: 36px;
   margin: 0;
