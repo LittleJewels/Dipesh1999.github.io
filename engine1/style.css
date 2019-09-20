@@ -19,7 +19,8 @@
 	/* reset box-sizing (to boostrap friendly) */
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
-	box-sizing: content-box; 
+	box-sizing: content-box;
+	margin-top: 100px; 
 }
 * html #wowslider-container1{ width:800px }
 #wowslider-container1 .ws_images ul{
