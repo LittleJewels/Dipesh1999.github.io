@@ -20,7 +20,7 @@
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
-	margin-top: 110px; 
+	margin-top: 50px; 
 }
 * html #wowslider-container1{ width:800px }
 #wowslider-container1 .ws_images ul{
@@ -34,7 +34,7 @@
 	border-spacing:0;
 	overflow: visible;
 	/*table-layout:fixed;*/
-	margin-top: 110px;
+	margin-top: 50px;
 }
 #wowslider-container1 .ws_images ul li{
 	position: relative;
