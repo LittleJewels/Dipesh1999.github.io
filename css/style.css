@@ -1590,14 +1590,14 @@ h6 {
   }
 }
 
-@media (max-width: 574px) {
+@media  (max-width: 574px) {
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
   }
 }
 
 
-
+/* Socials side bar */
 .icon-bar {
   position: fixed;
   top: 50%;
@@ -1629,11 +1629,17 @@ h6 {
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
   color: white;
 }
+.whatsapp {
+  background: #25d366;
+  color: white;
+}
 
 .youtube {
   background: #bb0000;
   color: white;
 }
+
+/* socials side bar */
 
 .content {
   margin-left: 75px;
